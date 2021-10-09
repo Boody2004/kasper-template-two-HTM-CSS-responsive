@@ -9,4 +9,4 @@
 
 ---
 
-![Design preview for the Profile card component coding challenge](image.jpg)
+![Design preview for the Profile card component coding challenge](./image/image.jpg)
